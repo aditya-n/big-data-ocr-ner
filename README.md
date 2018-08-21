@@ -8,7 +8,7 @@ This project is partitioned into three parts:-
 - Crawling and scraping ufostalker.com to get images and data; apply Object detection and captioning techniques to these images
 - Apply NER techniques on data/sighting descriptions to extract different named entitites
 
-**Note:** This project is built over the first one [here](https://github.com/srinidhinandakumar/big-data-content-similarity)
+**Note:** This project is built over the first one [here](https://github.com/aditya-n/content-similarity-big-data)
 
 The dataset built from the first project is called v1 ufo dataset and the dataset generated from this project is called v2 ufo dataset.
 
@@ -67,4 +67,4 @@ The dataset built from the first project is called v1 ufo dataset and the datase
 
 ### Inferences
 ---
-Refer to [this](https://github.com/srinidhinandakumar/big-data-ocr-ner/blob/master/docs/ENRICHMENT.pdf) document for inferences from this project.
+Refer to [this](https://github.com/aditya-n/big-data-ocr-ner/blob/master/docs/ENRICHMENT.pdf) document for inferences from this project.
